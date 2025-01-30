@@ -1,6 +1,6 @@
 # HR Database Project
 
-This project is an HR database designed using MySQL Workbench to store and manage employee data efficiently.
+This project is an HR database designed using MySQL Workbench to store and manage employee data efficiently. Please note that all data used in this database is fictional and created solely for the purpose of showcasing my coding skills. It does not represent any real-world data.
 
 ## Features
 - Tables: Employees, Departments, Positions, Salaries, Leaver Requests
